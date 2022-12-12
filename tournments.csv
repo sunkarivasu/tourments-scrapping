@@ -49,6 +49,7 @@ categories,endDate,location,startDate,title
 "[{'name': 'Junior', 'ages': ['-10']}, {'name': 'Open', 'ages': ['12+']}, {'name': 'Junior', 'ages': ['-18']}]",22/12/2022,Happy Valley Tennis Club | Aberfoyle Park,19/12/2022,2022 CentreCourtTennis December Championships
 "[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Junior', 'ages': ['-10']}]",22/12/2022,University of Queensland Tennis Centre | St Lucia,19/12/2022,2022 UQ Sport Junior Series
 "[{'name': 'Open', 'ages': []}, {'name': 'U18', 'ages': ['-18']}, {'name': 'Open', 'ages': ['13+']}]",23/12/2022,Ballarat Regional Tennis Centre | Wendouree,19/12/2022,2022 Ballarat Open Signature and Junior Series
+"[{'name': 'Other', 'ages': []}]",22/12/2022,Hume Tennis and Community Centre | Craigieburn,20/12/2022,2022 Pre Christmas training camp + UTR Match Play
 "[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': []}]",22/12/2022,Shoalhaven Disrict Tennis Association | Bomaderry,20/12/2022,2022 Shoalhaven Junior Event
 "[{'name': 'Junior', 'ages': ['-13', '6-13', '6-18']}]",23/12/2022,Robertson Park Tennis Centre | Perth,20/12/2022,2022 Robertson Park Junior
 "[{'ages': [], 'name': None}]",21/12/2022,UWA Tennis Club | Perth,21/12/2022,UWA Junior Challenge #3
@@ -62,7 +63,7 @@ categories,endDate,location,startDate,title
 "[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'U18', 'ages': []}]",29/12/2022,Dingley TC | DINGLEY VILLAGE,27/12/2022,2022 Dingley End of Year Classic
 "[{'name': 'Junior', 'ages': ['-9', '-10', '10+', '12+']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Open', 'ages': []}]",30/12/2022,Jason Todd | Banksia Park,27/12/2022,2022 Just 4 Tennis New Years Open
 "[{'name': 'Open', 'ages': ['-10', '-17']}, {'name': 'Open', 'ages': []}]",31/12/2022,Hume Tennis and Community Centre | Craigieburn,27/12/2022,2022 Hume Tennis & Community Centre Open Signature Event
-"[{'name': 'Open', 'ages': ['-10', '-12', '-14', '-16', '-18']}, {'name': 'Open', 'ages': []}]",31/12/2022,Elite Tennis Academy | MORNINGTON,27/12/2022,"2022 Mornington Junior & Open Zone Event ($3,000)"
+"[{'name': 'Open', 'ages': ['-10', '-12', '-14', '-16', '-18']}, {'name': 'Open', 'ages': []}]",31/12/2022,Elite Tennis Academy | MORNINGTON,27/12/2022,"2022 Mornington Junior & Open Zone Event #2 ($3,000)"
 "[{'name': 'Open', 'ages': ['Open', '-10']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Open', 'ages': []}]",31/12/2022,Illawarra Tennis Association | Rockdale,27/12/2022,2022 Rockdale December Open & JT
 "[{'name': 'Open', 'ages': []}]",31/12/2022,Mt Lawley Tennis Club | Inglewood,27/12/2022,2022 WA State Grass Open & Junior Event
 "[{'name': 'Junior', 'ages': ['Open', '-10', '-12', '-14', '-16', '-18']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",31/12/2022,Warrnambool Lawn | Warrnambool,28/12/2022,2022 Warrnambool Grasscourt Championships
