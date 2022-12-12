@@ -1,0 +1,185 @@
+categories,endDate,location,startDate,title
+"[{'name': 'Junior', 'ages': ['-9', '-11']}]",31/12/2022,Coolum Tennis Club | Coolum,5/06/2022,2022 Sunshine Coast Junior Development Series Coloured Ball- Coolum
+"[{'name': 'Junior', 'ages': ['-9', '-11']}, {'name': 'Junior', 'ages': ['-17']}]",31/12/2022,Noosa Tennis Club | Noosa,20/08/2022,2022 Sunshine Coast Development Series - Noosa 20 & 21 August
+"[{'ages': ['Open'], 'name': None}]",9/12/2022,Tennis Queensland Far North Region | Cairns,18/11/2022,CTA Friday Fixtures Term 4
+"[{'name': 'Junior', 'ages': ['Open']}]",11/12/2022,Elaine Caldana | West Lakes Shore,27/11/2022,2022-23 WDTA Junior Tournament
+"[{'name': 'Junior', 'ages': []}, {'name': 'U18', 'ages': ['15-18']}]",10/12/2022,Tennis Australia | Melbourne,3/12/2022,2022 18u Australian Championships
+"[{'name': 'Club Championship', 'ages': ['Open', '-10', '-16', '12+']}, {'name': 'Junior', 'ages': ['-10', '-16']}]",11/12/2022,Campbell Tennis Club | Canberra,4/12/2022,Campbell Tennis Club Championships 2022
+"[{'name': 'Junior', 'ages': []}, {'name': 'U14', 'ages': ['10-14']}]",10/12/2022,Tennis Australia | Melbourne,5/12/2022,2022 14u Australian Invitational Masters
+"[{'name': 'Club Championship', 'ages': ['Open']}]",12/12/2022,University of Queensland Tennis Club | Brisbane,5/12/2022,2022 UQ Tennis Club December Night Singles Fixtures
+"[{'name': 'Club Championship', 'ages': ['-18']}]",9/12/2022,Canterbury Taipans | Waterford,8/12/2022,Canterbury Taipans Club Championships 2022
+"[{'name': 'Hot Shots', 'ages': ['-18']}]",9/12/2022,East Fremantle Lawn Tennis Club | East Fremantle,9/12/2022,East Fremantle Hot Shots Challenge December 2022
+"[{'name': 'Open', 'ages': []}, {'name': 'U12', 'ages': ['-12', '-14', '-16']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'U18', 'ages': ['-18']}, {'name': 'Open', 'ages': ['12+']}, {'name': 'Junior', 'ages': ['Open', '-10', '-12']}]",11/12/2022,Tennis ACT | Lyneham,9/12/2022,2022 ACT Residents Championships
+"[{'name': 'Junior', 'ages': ['-10', '-14', '13+']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'U18', 'ages': ['-18']}, {'name': 'Open', 'ages': ['13+']}]",11/12/2022,Bendigo TA | Bendigo,9/12/2022,2022 Bendigo Rising Sun Junior & Open Zone Series
+"[{'name': 'Open', 'ages': ['13+']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'U18', 'ages': ['-18']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': ['-10']}]",11/12/2022,Elite Tennis Academy | Mornington,9/12/2022,"2022 MORNINGTON JUNIOR & OPEN (Dec #1) $3,000 Prizemoney"
+"[{'name': 'Seniors', 'ages': ['30+', '35+', '40+', '45+', '50+', '55+', '60+', '65+', '70+', '75+', '80+', '85+']}]",11/12/2022,Tennis Seniors Victoria | Warrnambool,9/12/2022,202212 TSV NRT Warrnambool tournament
+"[{'name': 'Open', 'ages': ['Open']}]",11/12/2022,Heathmont Parker Reserve Tennis Club | Melbourne,9/12/2022,2022-23 METT Summer Series #2
+"[{'name': 'Open', 'ages': ['Open']}, {'name': 'Open', 'ages': ['Open']}]",11/12/2022,KDV Sport | Gold Coast,9/12/2022,Padel Gold Coast Australian Championships
+"[{'name': 'Junior', 'ages': ['-13', '-15', '-17', '-19']}]",12/12/2022,Tennis Tasmania | Hobart,9/12/2022,2022 Tasmanian Junior State Championships
+"[{'name': 'Other', 'ages': ['-9', '-11', '-13', '-15']}]",10/12/2022,Hume Tennis and Community Centre | Craigibeurn,10/12/2022,2022 Melbourne Junior Tennis Pathway Series - UTR Match Play #11
+"[{'name': 'Intellectual Disability or Autism', 'ages': ['10+']}]",10/12/2022,NANDM Tennis Coaching | Melbourne,10/12/2022,NANDM TOURNAMENTS
+"[{'name': 'Open', 'ages': ['13+']}]",11/12/2022,Royal Pacific Tennis | Woodville South,10/12/2022,2022 Adelaide Open
+"[{'name': 'Open', 'ages': []}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14', '-16']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Open', 'ages': ['13+']}]",11/12/2022,Wagga Wagga Tennis Association | Wagga Wagga,10/12/2022,2022 City of Wagga Open
+"[{'name': 'Club Championship', 'ages': ['-12', '-13', '-14', '-16', '-18']}]",11/12/2022,Blue Gum Park Tennis Club | Perth,10/12/2022,2022 Junior Club Championships
+"[{'ages': ['Open', '7-8', '8-9', '9-10', '10-11', '11-12'], 'name': None}]",11/12/2022,Royal Pacific Tennis | Woodville,10/12/2022,"2022 Lil' Jo Adelaide Regional Qualifier (Verified UTR for Juniors 8,9,10,11,12)"
+"[{'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16']}]",11/12/2022,Tennis SA | Whyalla Norrie,10/12/2022,2022 Whyalla Junior Series
+"[{'name': 'Junior', 'ages': ['10-18', '99+']}]",11/12/2022,Tennis West | Burswood,10/12/2022,2022 Yonex Kent Yamazaki Team Championship
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-11']}, {'name': 'U14', 'ages': ['-11', '-13']}, {'name': 'U16', 'ages': ['-15']}, {'name': 'U18', 'ages': ['-17']}]",14/12/2022,Tennis Queensland | TBC,10/12/2022,2022 Junior Teams Carnival &  Roy Emerson Junior Premier Series (Closed)
+"[{'name': None, 'ages': []}]",14/12/2022,Tennis Australia | St Lucia,10/12/2022,2022 QLD Junior Teams Carnival - Teams Rounds
+"[{'ages': ['-18'], 'name': None}]",11/12/2022,Warrnambool Lawn | Warrnambool,11/12/2022,2022 Junior UTR Tournament Series - December
+"[{'ages': ['-10', '-11', '-14', '-17'], 'name': None}]",11/12/2022,Jason Todd | Gawler,11/12/2022,2022 Just 4 Tennis Summer 22-23 JDS 2
+"[{'ages': ['-10', '-12', '-14', '-16'], 'name': None}]",11/12/2022,Kadina Tennis Club | Kadina,11/12/2022,2022 Kadina JDS
+"[{'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",11/12/2022,Lucindale Tennis Club | Lucindale,11/12/2022,2022 South East Tennis Association Junior Singles
+"[{'name': 'Junior', 'ages': []}, {'name': 'U16', 'ages': ['13-16']}]",17/12/2022,Tennis Australia | Melbourne,11/12/2022,2022 16u Australian Championships
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['10-12']}, {'name': 'U14', 'ages': ['13-14']}]",18/12/2022,Tennis SA | Colonel Light Gardens,11/12/2022,2022 SA Qualifying - National Grasscourt Championships (Closed)
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['10-12']}]",17/12/2022,Tennis Australia | Melbourne,12/12/2022,2022 12u Australian Invitational Masters
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['13+']}]",18/12/2022,Beenleigh Tennis Centre | Beenleigh,15/12/2022,2022 Beenleigh (Formerly TennisGear) Open Series
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-12', '-14']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Junior', 'ages': ['-10']}]",18/12/2022,Griffith University Tennis Centre | Mount Gravatt ,15/12/2022,2022 Griffith University Junior Series
+"[{'name': 'Open', 'ages': ['Open', '-10', '-12', '-14', '-16']}]",19/12/2022,Coffs Harbour and District Tennis Assn. | Coffs Harbour,16/12/2022,2022 42nd C.ex Coffs Northern NSW Tennis Championships
+"[{'name': 'Open', 'ages': ['-14', '7-10', '10+', '12+', '13+']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Open', 'ages': ['13+']}]",19/12/2022,Bathurst Tennis Centre | Bathurst,16/12/2022,2022 Bathurst Summer Open and Junior Event
+"[{'name': 'Junior', 'ages': ['-13', '-18']}]",19/12/2022,East Fremantle Lawn Tennis Club | East Fremantle,16/12/2022,2022 East Fremantle Junior Classic
+"[{'name': 'Junior', 'ages': []}]",17/12/2022,Domain Tennis Club | Hobart,17/12/2022,2022 Domain JDS Term 4
+"[{'name': 'Other', 'ages': []}]",17/12/2022,Hume Tennis and Community Centre | Craigieburn,17/12/2022,2022 My First Tournament #10 XMAS BREAKUP
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['10-12']}, {'name': 'U14', 'ages': ['13-14']}]",18/12/2022,Tennis ACT | Lyneham,17/12/2022,2022 ACT Qualifying - National Grasscourt Championships (Closed)
+"[{'name': 'Seniors', 'ages': ['30+', '40+', '50+', '60+', '70+']}]",18/12/2022,Tennis West | Perth,17/12/2022,2022 WA State Seniors Titles
+"[{'name': 'Junior', 'ages': ['-13']}, {'name': 'Junior', 'ages': ['-10', '-13', '-16']}]",21/12/2022,Frankston Centenary Tennis Club | Frankston North,17/12/2022,2022 FCTC December Showdown
+"[{'name': 'Junior', 'ages': ['-8', '-10']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['Open', '-16']}]",21/12/2022,Boroondara TC | North Balwyn,17/12/2022,2022 HEAD Schoolboys & Schoolgirls Championships
+"[{'name': 'Junior', 'ages': []}]",18/12/2022,Jason Todd | Para Hills,18/12/2022,2022 Just 4 Tennis Summer 22-23 JDS 3
+"[{'ages': [], 'name': None}]",18/12/2022,UWA Tennis Club | Perth,18/12/2022,UWA Junior Challenge #2
+"[{'name': 'Junior', 'ages': ['-10']}, {'name': 'Open', 'ages': ['12+']}, {'name': 'Junior', 'ages': ['-18']}]",22/12/2022,Happy Valley Tennis Club | Aberfoyle Park,19/12/2022,2022 CentreCourtTennis December Championships
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Junior', 'ages': ['-10']}]",22/12/2022,University of Queensland Tennis Centre | St Lucia,19/12/2022,2022 UQ Sport Junior Series
+"[{'name': 'Open', 'ages': []}, {'name': 'U18', 'ages': ['-18']}, {'name': 'Open', 'ages': ['13+']}]",23/12/2022,Ballarat Regional Tennis Centre | Wendouree,19/12/2022,2022 Ballarat Open Signature and Junior Series
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': []}]",22/12/2022,Shoalhaven Disrict Tennis Association | Bomaderry,20/12/2022,2022 Shoalhaven Junior Event
+"[{'name': 'Junior', 'ages': ['-13', '6-13', '6-18']}]",23/12/2022,Robertson Park Tennis Centre | Perth,20/12/2022,2022 Robertson Park Junior
+"[{'ages': [], 'name': None}]",21/12/2022,UWA Tennis Club | Perth,21/12/2022,UWA Junior Challenge #3
+"[{'ages': ['10-13', '12-15'], 'name': None}]",22/12/2022,Tennis New South Wales | Marsfield,21/12/2022,2022 NSW Junior State Masters
+"[{'name': 'Junior', 'ages': ['-18']}, {'name': 'Junior', 'ages': ['-18']}]",23/12/2022,Essendon Tennis Club | Essendon,21/12/2022,2022 Essendon JDS
+"[{'name': 'Junior', 'ages': []}]",23/12/2022,Eaglemont | East Ivanhoe,22/12/2022,2022 Yarra Tennis December Round Robin event
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",23/12/2022,Elite Tennis Academy | Mornington,23/12/2022,2022 Mornington Christmas Junior Tournament (Verified UTR Event)
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': []}]",28/12/2022,Sunshine Coast Regional Tennis Centre – Caloundra | Caloundra,26/12/2022,2022 Elite Tennis International Boxing Day Open Series
+"[{'name': 'Open', 'ages': ['13+', '40+', '45+']}, {'name': 'Open', 'ages': []}]",31/12/2022,Manly Lawn Tennis Club | Manly,26/12/2022,2022 Clarke & Humel Manly Seaside
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",29/12/2022,Caroline Springs Tennis Club | Caroline Springs,27/12/2022,2022 B. Sports Junior Championships #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'U18', 'ages': []}]",29/12/2022,Dingley TC | DINGLEY VILLAGE,27/12/2022,2022 Dingley End of Year Classic
+"[{'name': 'Junior', 'ages': ['-9', '-10', '10+', '12+']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Open', 'ages': []}]",30/12/2022,Jason Todd | Banksia Park,27/12/2022,2022 Just 4 Tennis New Years Open
+"[{'name': 'Open', 'ages': ['-10', '-17']}, {'name': 'Open', 'ages': []}]",31/12/2022,Hume Tennis and Community Centre | Craigieburn,27/12/2022,2022 Hume Tennis & Community Centre Open Signature Event
+"[{'name': 'Open', 'ages': ['-10', '-12', '-14', '-16', '-18']}, {'name': 'Open', 'ages': []}]",31/12/2022,Elite Tennis Academy | MORNINGTON,27/12/2022,"2022 Mornington Junior & Open Zone Event ($3,000)"
+"[{'name': 'Open', 'ages': ['Open', '-10']}, {'name': 'U12', 'ages': ['-12']}, {'name': 'U14', 'ages': ['-14']}, {'name': 'U16', 'ages': ['-16']}, {'name': 'Open', 'ages': []}]",31/12/2022,Illawarra Tennis Association | Rockdale,27/12/2022,2022 Rockdale December Open & JT
+"[{'name': 'Open', 'ages': []}]",31/12/2022,Mt Lawley Tennis Club | Inglewood,27/12/2022,2022 WA State Grass Open & Junior Event
+"[{'name': 'Junior', 'ages': ['Open', '-10', '-12', '-14', '-16', '-18']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",31/12/2022,Warrnambool Lawn | Warrnambool,28/12/2022,2022 Warrnambool Grasscourt Championships
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",30/12/2022,Tennis Brisbane | REDLAND BAY,29/12/2022,2022 Metropolitan Development Series - Redland Bay / Sheldon College
+"[{'name': 'Junior', 'ages': ['-12', '-14', '-18']}]",4/01/2023,Tennis Queensland | Brisbane,1/01/2023,2022 Road to Brisbane Finals
+"[{'name': 'Open', 'ages': ['-8', '-9', '-10', '-11', '-13', '-15', '14+']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",4/01/2023,Shepparton Lawn | Shepparton,1/01/2023,2023 Goulburn Valley Junior & Open Championships O3K J125
+"[{'name': 'Other', 'ages': []}]",3/01/2023,Benalla Lawn Tennis Club | Benalla,2/01/2023,Benalla Lawn Tennis 2022
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",4/01/2023,South Perth Tennis Club | Como,2/01/2023,2023 JT Junior 125 South Perth
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",5/01/2023,Frankston Centenary Tennis Club | Frankston East,2/01/2023,2023 JT Junior 125 Frankston Centenary New Years Event
+"[{'name': 'Open', 'ages': ['-10', '-12', '-14', '-16']}, {'name': 'Open', 'ages': []}]",5/01/2023,Hume Tennis and Community Centre | Craigieburn,2/01/2023,2023 Open 3K Hume Tennis Jan Event #1
+"[{'name': 'Open', 'ages': ['Open', '-10', '13+']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",8/01/2023,Ballina Tennis Club | Ballina,5/01/2023,2023 O3K J125 Ballina New Years Open
+"[{'name': 'Junior', 'ages': []}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",8/01/2023,Sorrento Tennis Club | Perth,5/01/2023,2023 O3K J125 City of Joondalup Junior & Open Tennis Event
+"[{'name': 'Junior', 'ages': ['10-12', '13-14']}, {'name': 'U12', 'ages': ['10-12']}, {'name': 'U14', 'ages': ['13-14']}]",9/01/2023,Tennis Australia | Wodonga,5/01/2023,2023 12u & 14u Australian Grasscourt Championships
+"[{'name': 'Open', 'ages': ['-10', '-16']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",9/01/2023,Albury Tennis Association | Albury,5/01/2023,2023 O3K  JP250 J125 Margaret Court Cup & Roche Series
+"[{'name': 'Open', 'ages': ['16+']}, {'name': 'Junior', 'ages': ['-12', '-14', '-16', '-18']}]",8/01/2023,Tennis Victoria | Yarrawonga,6/01/2023,2023 OC JC 67th Inter-Regional Country Championships Victoria
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",9/01/2023,IMG Discovery Open | Carnegie,6/01/2023,2023 JT Junior 125 IMG Lauriston Event
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",9/01/2023,Elite Tennis Academy | Mornington,6/01/2023,2023 O3K J125 Mornington Open & Junior 16s #1
+"[{'name': 'Other', 'ages': []}, {'name': 'Open', 'ages': ['16+']}, {'name': 'Junior', 'ages': []}]",9/01/2023,Tennis SA | Kensington Gardens,9/01/2023,2023 OC JC Country Carnival
+"[{'name': 'Junior', 'ages': []}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",12/01/2023,Alexander Park Tennis Club | Perth,9/01/2023,2023 O3K J125 APTC Bendigo Bank Open & Junior Event
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",13/01/2023,Tennis Queensland | Caloundra,9/01/2023,2023 JT Premier 250 Mal Anderson Junior Championships
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",13/01/2023,Domain Tennis Club | Queens Domain,10/01/2023,2023 JT Premier 250 Tasmanian Junior Championships
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-12', '-14']}]",14/01/2023,Royal Park TC | Parkville,10/01/2023,2022/3 Rafa Nadal Tour Australian Masters (Invitational)
+"[{'name': 'Junior', 'ages': ['Open', '-10', '-14', '-18']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",14/01/2023,Wodonga Tennis Centre | Wodonga,10/01/2023,2023 O3K J125 Victorian Junior Grasscourt Championship
+"[{'name': 'Junior', 'ages': []}]",13/01/2023,Eastern Districts Tennis Association | Kensington Gardens,11/01/2023,Eastern Districts Association Junior Tournament 2023
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",14/01/2023,Pakenham Regional Tennis Centre | Pakenham,11/01/2023,2023 JT Junior 125 Pakenham Regional Tennis Centre - Summer Classic
+"[{'name': 'Junior', 'ages': []}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",14/01/2023,MCC Glen Iris Valley Tennis Club | Mt Waverley,11/01/2023,2023 OPEN 3K & J125 (16) Tennis Only MCC Glen Iris Open
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",15/01/2023,Nepean District Tennis Association | Penrith,12/01/2023,2023 OC J125 Nepean Summer Open & Junior Event
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",15/01/2023,Applecross Tennis Club | Perth,13/01/2023,2023 JT Junior 125 Applecross Tennis Event
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",16/01/2023,NSW Country Tennis Association | Broadmeadow,13/01/2023,2023 O3K J125 Newcastle Open
+"[{'name': 'Open', 'ages': ['Open']}, {'name': 'Open', 'ages': []}]",14/01/2023,Eynesbury Tennis Club | EYNESBURY,14/01/2023,2023 Community Eynesbury Doubles Event
+"[{'name': 'Wheelchair', 'ages': []}]",14/01/2023,Hume Tennis and Community Centre | Craigieburn,14/01/2023,2023 Summer Wheelchair Tennis Classic
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",16/01/2023,Tennis Gold Coast | Gold Coast,14/01/2023,2023 JT Junior 125 Volkl Gold Coast Junior Championships
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': []}]",16/01/2023,Redlands Tennis Academy | Redland Bay,14/01/2023,2023 Open 2.1K Bayside Open (Singles Only)
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",17/01/2023,Tennis Tasmania | Queens Domain,14/01/2023,2023 JT Signature 500 Tasmanian Junior Championships
+"[{'name': 'Junior', 'ages': ['Open', '-10']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",18/01/2023,All Stars Tennis | Yarrawonga,15/01/2023,2023 O3K J125 All Stars Tennis Championship Yarrawonga
+"[{'name': 'Junior', 'ages': ['5-7', '7-9', '8-9', '9-10', '10-11', '11-12', '12-13']}]",18/01/2023,Royal Pacific Tennis | Williamstown,16/01/2023,2023 Lil' Jo Nationals
+"[{'name': 'Junior', 'ages': []}]",18/01/2023,Tennis Queensland | Gold Coast,17/01/2023,2023 JDS Gold Coast Region - Beenleigh Singles & Doubles
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",20/01/2023,Tennis West | Perth,17/01/2023,2023 JP250 J125 Perth Junior Grasscourt & Spirit Junior #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",20/01/2023,Rye TC | Rye,17/01/2023,2023 JT Junior 125 ALCTA Mornington Peninsula Junior Championships
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",20/01/2023,Caroline Springs Tennis Club | Caroline Springs,17/01/2023,2023 JT Junior 125 Caroline Springs Event
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': []}]",20/01/2023,Elite Tennis Academy | Mornington,17/01/2023,2023 Open 3K Mornington Open #2
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",21/01/2023,Seaside Tennis Club | Henley Beach,18/01/2023,2023 JT Junior 125 Seaside January Junior Series
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['15+']}, {'name': 'Junior', 'ages': []}]",22/01/2023,Gosford Tennis Centre Gosford | Gosford,18/01/2023,2023 O3K JP250 Northumberland Junior State Champs and Roche Series
+"[{'ages': [], 'name': None}]",19/01/2023,UWA Tennis Club | Perth,19/01/2023,UWA Junior Challenge #4
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",22/01/2023,Illawarra Tennis Association | Rockdale,19/01/2023,2023 JT Junior 125 Illawarra Junior
+"[{'name': 'Junior', 'ages': ['-10']}, {'name': 'Junior', 'ages': []}]",22/01/2023,Pro One Tennis Academy | Tweed Heads,20/01/2023,2023 JT Junior 125 Tweed Heads Summer Junior Series
+"[{'name': 'Junior', 'ages': ['5-12', '13+']}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': []}]",22/01/2023,Rosny Park Tennis Club | Rosny Park,20/01/2023,2023 O3K J125 Clarence Open
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': []}]",22/01/2023,Kawana Tennis Club | Sunshine Coast,20/01/2023,2023 Open 3K Kawana Open Championships
+"[{'name': 'Other', 'ages': []}, {'name': 'Open', 'ages': ['12+']}, {'name': 'Junior', 'ages': []}]",22/01/2023,Higgins Park Tennis Club | Perth,21/01/2023,2023 Higgins Park Tennis Club incl.  Doubles for Danny
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",22/01/2023,Tennis World Canberra | Canberra,21/01/2023,2023 JDS Tennis World Canberra #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",24/01/2023,Tennis West | Perth,21/01/2023,2023 JS500 J125 WA Junior Grasscourt State Championships & Spirit Junior #2
+"[{'name': 'Open', 'ages': ['-12', '-14', '-16', '13+', '40+']}, {'name': 'Open', 'ages': []}]",24/01/2023,Rye TC | Rye,21/01/2023,2023 Open 3K Rye Tennis Club 44th Annual Australia Day Event
+"[{'ages': ['-9', '-11', '-13', '-15', '-17'], 'name': None}]",22/01/2023,Warrnambool Lawn | Warrnambool,22/01/2023,2022 Junior UTR Tournament Series - January
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",25/01/2023,Geelong LTC | Belmont,22/01/2023,2023 J250 J125 Geelong Premier Event
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",25/01/2023,MCC Glen Iris Valley Tennis Club | Mt Waverley,22/01/2023,2023 JT Junior 125 MCC Glen Iris Australia Day Event
+"[{'name': 'Open', 'ages': ['16+']}, {'name': 'Junior', 'ages': []}]",25/01/2023,Tennis World Millswood | Millswood,22/01/2023,2023 O3K  J125 Tennis World Millswood January Junior & Open Event
+"[{'name': 'Open', 'ages': ['-10', '-12', '-14', '-16']}, {'name': 'Open', 'ages': []}]",25/01/2023,Hume Tennis and Community Centre | Craigieburn,22/01/2023,2023 Open 3K Hume Tennis Jan Event #2
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': []}]",27/01/2023,Tennis Tasmania | Devonport,23/01/2023,2023 Signature 20k Tasmanian Championships
+"[{'ages': [], 'name': None}]",24/01/2023,UWA Tennis Club | Perth,24/01/2023,UWA Junior Challenge #5
+"[{'name': 'Junior', 'ages': ['-10', '-11', '-14', '-17']}, {'name': 'Junior', 'ages': []}]",27/01/2023,Jason Todd | Banksia Park,26/01/2023,2023 JDS Just 4 Tennis Event #4
+"[{'name': 'Junior', 'ages': ['9+']}, {'name': 'Junior', 'ages': []}]",29/01/2023,Busselton Tennis Club | Perth,26/01/2023,2023 JT Junior 125 Busselton Toyota Junior Tour
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': []}]",29/01/2023,David Turbayne Tennis Centre | Brisbane,26/01/2023,2023 Open 3K Churchie Open
+"[{'name': 'Junior', 'ages': []}, {'name': 'Open', 'ages': ['16+']}, {'name': 'Junior', 'ages': []}]",30/01/2023,Tennis World Canberra | Canberra,26/01/2023,2023 O3K JP250 J125 Tennis World Canberra
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-12', '-14', '-16']}]",29/01/2023,Parramatta Tennis Inc | North Parramatta,27/01/2023,2023 JT Junior 125 Parramatta Junior
+"[{'name': 'Other', 'ages': []}]",29/01/2023,Wangaratta Lawn | Wangaratta,27/01/2023,Premier Panels Australia Day Tournament 2023
+"[{'name': 'Other', 'ages': []}]",26/02/2023,Northern Suburbs Tennis Assn. | Naremburn,28/01/2023,2023 NSTA Championships Open and Juniors
+"[{'ages': [], 'name': None}]",29/01/2023,UWA Tennis Club | Perth,29/01/2023,UWA Junior Challenge #6
+"[{'name': 'Junior', 'ages': ['-17']}]",31/12/2023,Tennis Queensland | Caloundra,4/02/2023,2023 JDS Sunshine Coast Region - Caloundra 4th & 5th Feb
+"[{'name': 'Junior', 'ages': ['-9', '-11', '-14', '-17']}]",5/02/2023,Tennis Australia | Surrey Downs,5/02/2023,2023 JDS Just 4 Tennis Event #5
+"[{'name': 'Junior', 'ages': ['-12']}]",5/02/2023,Tennis NSW Northumberland Region | Broadmeadow,5/02/2023,2023 JDS Northumberland RMS PLUS - Newcastle #1
+"[{'name': 'Junior', 'ages': ['Open']}, {'name': 'Junior', 'ages': ['-16']}]",5/02/2023,Geelong LTC | Belmont,5/02/2023,2023 Community Geelong Lawn February UTR Band 0-5
+"[{'name': 'Junior', 'ages': ['-10']}]",5/02/2023,Tennis Queensland | Gold Coast,5/02/2023,2023 JC Gold Coast Orange Ball - Gold Coast Seniors
+"[{'name': 'Junior', 'ages': ['-17']}]",5/02/2023,Tennis Queensland | Gold Coast,5/02/2023,2023 JDS Gold Coast Region - Pimpama - Singles ONLY
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16']}]",5/02/2023,Tennis NSW Northumberland Region | Broadmeadow,5/02/2023,2023 JDS Northumberland RMS - Newcastle #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",5/02/2023,Tennis NSW South East Region | Gwynneville,5/02/2023,2023 JDS South East RMS - Wollongong
+"[{'name': 'Junior', 'ages': []}]",5/02/2023,Wimmera Region | Horsham,5/02/2023,Central Park Wimmera Junior Points Tournament
+"[{'name': 'Open', 'ages': []}]",12/02/2023,West Lalor Tennis Club | Melbourne,10/02/2023,Lets Challenge Tournament 2023
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': []}]",12/02/2023,Domain Tennis Club | Queens Domain,11/02/2023,2023 Pardey Shield/Pizzey Cup Trials 
+"[{'name': 'Junior', 'ages': []}]",12/02/2023,Tennis Queensland | Gold Coast,11/02/2023,2023 JT Junior 125 KDV Sport Slam Series 1
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['14+']}]",12/02/2023,NSW Country Tennis Association | Gosford,11/02/2023,2023 Open Community Tennis Country Series - Gosford
+"[{'ages': ['-9', '-11', '-13', '-15', '-17'], 'name': None}]",12/02/2023,Warrnambool Lawn | Warrnambool,12/02/2023,2022 Junior UTR Tournament Series - February
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",12/02/2023,Tennis NSW Central West Region | Bathurst,12/02/2023,2023 JDS Central West RMS - Bathurst
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '16+']}]",12/02/2023,Tennis NSW North East Region | Port Macquarie,12/02/2023,2023 JDS North East RMS (Lower) - Port Macquarie #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '16+']}]",12/02/2023,Tennis NSW North East Region | Lismore,12/02/2023,2023 JDS North East RMS (Upper) - Lismore #1
+"[{'name': 'Junior', 'ages': ['-8']}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '16+']}]",12/02/2023,Tennis NSW North West Region | Inverell,12/02/2023,2023 JDS North West RMS - Inverell
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",12/02/2023,Tennis NSW South West Region | Wagga Wagga,12/02/2023,2023 JDS South West RMS - Wagga Wagga
+"[{'name': 'Open', 'ages': ['16+']}]",17/02/2023,Geelong LTC | Belmont,13/02/2023,2023 Signature 20K Victorian Grasscourt Championships
+"[{'name': 'Open', 'ages': []}]",19/02/2023,Cygnet Tennis Club | Cygnet,17/02/2023,2023 Cygnet Open
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['13+']}, {'name': 'Junior', 'ages': ['-16']}]",19/02/2023,Tennis Tasmania | Cygnet,17/02/2023,2023 O3 J125 Cygnet Open
+"[{'name': 'Open', 'ages': ['13+']}]",19/02/2023,Tennis Queensland | Mooloolaba,17/02/2023,2023 Open 3K Mooloolaba Open Championships
+"[{'name': 'Junior', 'ages': ['-10', '-12', '-14', '-18']}]",19/02/2023,Tennis ACT | Canberra,18/02/2023,2023 JDS Melba
+"[{'name': 'Junior', 'ages': ['-17']}]",19/02/2023,Tennis Queensland | Sarina,18/02/2023,2023 JDS North Region - Sarina (B)
+"[{'name': 'Junior', 'ages': ['-12']}]",19/02/2023,Tennis Victoria | Riddells Creek,19/02/2023,2023 Community - Riddells Creek TC - Juniors Community Series - Feb
+"[{'name': 'Junior', 'ages': ['-8', '-11', '-14', '-17']}]",19/02/2023,Tennis Australia | Tanunda SA,19/02/2023,2023 JDS Just 4 Tennis Event #6
+"[{'name': 'Junior', 'ages': ['-10']}]",19/02/2023,Tennis Australia | Adelaide,19/02/2023,2023 JDS Seacliff February
+"[{'name': 'Junior', 'ages': ['-10']}]",19/02/2023,Tennis Queensland | Gold Coast,19/02/2023,2023 JC Gold Coast Red Ball - Hope Island 1
+"[{'name': 'Junior', 'ages': ['-17']}]",26/02/2023,Tennis Queensland | Brisbane,19/02/2023,2023 JDS Metropolitan Region - QTC
+"[{'name': 'Open', 'ages': ['16+']}]",26/02/2023,Tennis Queensland | Chinchilla,24/02/2023,2023 Chinchilla Seniors NRT.7 R/R
+"[{'name': 'Junior', 'ages': ['-10', '-12', '-14', '-18']}]",26/02/2023,Tennis ACT | Canberra,25/02/2023,2023 JDS North Woden #1
+"[{'name': 'Junior', 'ages': ['-17']}]",26/02/2023,Tennis Queensland | Tannum Sands,25/02/2023,2023 JDS Central Region - Tannum Sands
+"[{'name': 'Junior', 'ages': ['-12']}]",26/02/2023,Tennis Queensland | Gold Coast,26/02/2023,2023 JC Gold Coast Green Ball - Pro One Tennis
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",26/02/2023,Tennis NSW Central West Region | Blayney,26/02/2023,2023 JDS Central West RMS - Blayney
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '16+']}]",26/02/2023,Tennis NSW North East Region | Sawtell,26/02/2023,2023 JDS North East RMS (Lower) - Coffs Harbour #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '16+']}]",26/02/2023,Tennis NSW North East Region | Grafton,26/02/2023,2023 JDS North East RMS (Upper) - Grafton #1
+"[{'name': 'Junior', 'ages': ['-8']}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '16+']}]",26/02/2023,Tennis NSW North West Region | Gunnedah,26/02/2023,2023 JDS North West RMS - Gunnedah #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '16+']}]",26/02/2023,Tennis NSW Northumberland Region | Gosford,26/02/2023,2023 JDS Northumberland RMS - Gosford #1
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",26/02/2023,Tennis NSW South East Region | Kiama,26/02/2023,2023 JDS South East RMS - Kiama
+"[{'name': 'Junior', 'ages': []}, {'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",26/02/2023,Tennis NSW South West Region | Albury,26/02/2023,2023 JDS South West RMS - Albury
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['16+']}, {'name': 'Junior', 'ages': ['-12', '-14', '-16']}]",5/03/2023,Tennis World Canberra | Canberra,3/03/2023,2023 O3K J125 Tennis World Canberra
+"[{'name': 'Open', 'ages': ['13+']}]",5/03/2023,Tennis Queensland | Caloundra,3/03/2023,2023 Open 3K Elite Tennis International Seasons IGA Open
+"[{'name': 'Open', 'ages': ['16+']}, {'name': 'Junior', 'ages': ['-11', '-13', '-14', '-16']}]",6/03/2023,Esperance Tennis Club | Esperance,3/03/2023,2023 O3 J125 Esperance March Open & Junior Event
+"[{'name': 'Junior', 'ages': ['-17']}]",5/03/2023,Tennis Queensland | Cairns,4/03/2023,2023 JDS Far North Region - Cairns 2 days (1)
+"[{'name': 'Junior', 'ages': ['-17']}]",5/03/2023,Tennis Queensland | Mooloolaba,4/03/2023,2023 JDS Sunshine Coast Region - Mooloolaba 4th & 5th March
+"[{'name': 'Junior', 'ages': ['-10', '-12', '-14', '-16', '-18']}]",5/03/2023,Tennis Queensland | Springfield,4/03/2023,2023 JT Junior 125 BLTC Junior Championships
+"[{'name': 'Open', 'ages': ['16+']}, {'name': 'Junior', 'ages': ['-12', '-14', '-16', '-18']}]",5/03/2023,Tennis Queensland | Charters Tower,4/03/2023,2023 OC JC Gold Pan
+"[{'name': 'Open', 'ages': []}]",6/03/2023,Busselton Tennis Club | Busselton,4/03/2023,2023 Busselton March Open
+"[{'name': 'Junior', 'ages': []}]",5/03/2023,Geelong LTC | Belmont,5/03/2023,2023 Community Geelong Lawn March UTR Band 0-5
+"[{'name': 'Junior', 'ages': ['-10']}]",5/03/2023,Tennis Queensland | Gold Coast,5/03/2023,2023 JC Gold Coast Orange Ball - Queens Park
+"[{'name': 'Junior', 'ages': ['-17']}]",12/03/2023,Tennis Queensland | Gold Coast,5/03/2023,2023 JDS Gold Coast Region - Canterbury Taipans Singles & Doubles (Sundays Only)
+"[{'name': 'Open', 'ages': []}, {'name': 'Open', 'ages': ['16+']}]",10/03/2023,Tennis ACT | Canberra,6/03/2023,2023 Signature 20K ACT Open
