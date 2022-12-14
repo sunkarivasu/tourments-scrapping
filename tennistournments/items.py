@@ -15,3 +15,8 @@ class TennistournmentsItem(scrapy.Item):
     categories = scrapy.Field()
 
     pass
+
+class Player(scrapy.Item):
+    id = scrapy.Field()
+    name = scrapy.Field()
+

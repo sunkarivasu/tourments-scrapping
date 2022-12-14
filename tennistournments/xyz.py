@@ -1,13 +1,14 @@
 import requests
 
 cookies = {
-    'st': 'l=3081&exp=45269.7684725231',
-    '_ga': 'GA1.3.1505240466.1670606802',
-    '_gid': 'GA1.3.1901282358.1670606802',
-    '_hjSessionUser_906305': 'eyJpZCI6IjU1ZjkwMjJlLTY4OWMtNWRmOS1hMmRjLTA5ZWExZTFkNzExZSIsImNyZWF0ZWQiOjE2NzA2MDY4MDUzNzEsImV4aXN0aW5nIjp0cnVlfQ==',
-    'ASP.NET_SessionId': 'vhkrsb1en1yzidfpsnqwqcsg',
-    '_hjSession_906305': 'eyJpZCI6ImZmODZjYzZhLTM1N2EtNGVhNC1hYWI3LTE4YzNiZjNmMjlhZCIsImNyZWF0ZWQiOjE2NzA2Nzk1OTE5NzksImluU2FtcGxlIjpmYWxzZX0=',
+    '_ga': 'GA1.3.1859280322.1670843425',
+    '_gid': 'GA1.3.202017164.1670843425',
+    '_hjSessionUser_906305': 'eyJpZCI6IjQ0NDQ2MzYzLTdhZTMtNWI5ZS04OWE5LTAwNjkxZWFjODFmZSIsImNyZWF0ZWQiOjE2NzA4NDM0MjQ4OTgsImV4aXN0aW5nIjp0cnVlfQ==',
+    '.ASPX_TOURNAMENT_WEBSITE': 'E4D634BF4A1F4278A96447DDF6A3566AA07CB832FD6924991743DDCA24F0A2160A09EB2E150EC5CB7371BA36FF37A1DFAE5F0F10A89D9468433C49EE7CE8EF6FC1FEB3FD4F7960E9434D7D302781B981A507641DC8CB868317027E6EE090BF5998389F3E',
+    'st': 'l=3081&exp=45273.7522219329&s=0',
+    '_hjSession_906305': 'eyJpZCI6ImYyMTMzNzIxLTUyN2YtNDMyMC05ZGU4LWQzNGZhNzNiY2E1NCIsImNyZWF0ZWQiOjE2NzA5OTM5MzY5MTUsImluU2FtcGxlIjpmYWxzZX0=',
     '_hjAbsoluteSessionInProgress': '0',
+    'ASP.NET_SessionId': 'glabfblqc3gg04u5o1bliewj',
     '_hjIncludedInSessionSample': '0',
     '_gat': '1',
 }
@@ -17,9 +18,9 @@ headers = {
     'accept': '*/*',
     'accept-language': 'en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7,te;q=0.6',
     'content-type': 'application/x-www-form-urlencoded; charset=UTF-8',
-    # 'cookie': 'st=l=3081&exp=45269.7684725231; _ga=GA1.3.1505240466.1670606802; _gid=GA1.3.1901282358.1670606802; _hjSessionUser_906305=eyJpZCI6IjU1ZjkwMjJlLTY4OWMtNWRmOS1hMmRjLTA5ZWExZTFkNzExZSIsImNyZWF0ZWQiOjE2NzA2MDY4MDUzNzEsImV4aXN0aW5nIjp0cnVlfQ==; ASP.NET_SessionId=vhkrsb1en1yzidfpsnqwqcsg; _hjSession_906305=eyJpZCI6ImZmODZjYzZhLTM1N2EtNGVhNC1hYWI3LTE4YzNiZjNmMjlhZCIsImNyZWF0ZWQiOjE2NzA2Nzk1OTE5NzksImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; _hjIncludedInSessionSample=0; _gat=1',
+    # 'cookie': '_ga=GA1.3.1859280322.1670843425; _gid=GA1.3.202017164.1670843425; _hjSessionUser_906305=eyJpZCI6IjQ0NDQ2MzYzLTdhZTMtNWI5ZS04OWE5LTAwNjkxZWFjODFmZSIsImNyZWF0ZWQiOjE2NzA4NDM0MjQ4OTgsImV4aXN0aW5nIjp0cnVlfQ==; .ASPX_TOURNAMENT_WEBSITE=E4D634BF4A1F4278A96447DDF6A3566AA07CB832FD6924991743DDCA24F0A2160A09EB2E150EC5CB7371BA36FF37A1DFAE5F0F10A89D9468433C49EE7CE8EF6FC1FEB3FD4F7960E9434D7D302781B981A507641DC8CB868317027E6EE090BF5998389F3E; st=l=3081&exp=45273.7522219329&s=0; _hjSession_906305=eyJpZCI6ImYyMTMzNzIxLTUyN2YtNDMyMC05ZGU4LWQzNGZhNzNiY2E1NCIsImNyZWF0ZWQiOjE2NzA5OTM5MzY5MTUsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=0; ASP.NET_SessionId=glabfblqc3gg04u5o1bliewj; _hjIncludedInSessionSample=0; _gat=1',
     'origin': 'https://tournaments.tennis.com.au',
-    'referer': 'https://tournaments.tennis.com.au/find?DateFilterType=0&StartDate=2022-12-05&EndDate=2023-03-09&Distance=15&page=1',
+    'referer': 'https://tournaments.tennis.com.au/tournament/C0B0B33B-2910-46C0-9503-1C74A6CB761F/players',
     'sec-ch-ua': '"Not?A_Brand";v="8", "Chromium";v="108", "Google Chrome";v="108"',
     'sec-ch-ua-mobile': '?0',
     'sec-ch-ua-platform': '"Windows"',
@@ -31,50 +32,14 @@ headers = {
 }
 
 data = {
-    'Page': '1',
-    'TournamentExtendedFilter.SportID': '0',
-    'TournamentFilter.Q': '',
-    'TournamentFilter.DateFilterType': '0',
-    'TournamentFilter.StartDate': '2022-12-05',
-    'TournamentFilter.EndDate': '2023-03-09',
-    'TournamentFilter.PostalCode': '',
-    'TournamentFilter.Distance': '15',
-    'TournamentExtendedFilter.OrganizationStateList[0]': 'false',
-    'TournamentExtendedFilter.OrganizationStateList[1]': 'false',
-    'TournamentExtendedFilter.OrganizationStateList[2]': 'false',
-    'TournamentExtendedFilter.OrganizationStateList[3]': 'false',
-    'TournamentExtendedFilter.OrganizationStateList[4]': 'false',
-    'TournamentExtendedFilter.OrganizationStateList[5]': 'false',
-    'TournamentExtendedFilter.OrganizationStateList[6]': 'false',
-    'TournamentExtendedFilter.OrganizationStateList[7]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[0]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[1]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[2]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[3]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[4]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[5]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[6]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[7]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[8]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[9]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[10]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[11]': 'false',
-    'TournamentExtendedFilter.TournamentCategoryIDList[12]': 'false',
-    'TournamentExtendedFilter.OrganizationCourtSurfaceTypeList[0]': 'false',
-    'TournamentExtendedFilter.OrganizationCourtSurfaceTypeList[1]': 'false',
-    'TournamentExtendedFilter.OrganizationCourtSurfaceTypeList[2]': 'false',
-    'TournamentExtendedFilter.OrganizationCourtSurfaceTypeList[3]': 'false',
-    'TournamentExtendedFilter.OrganizationCourtSurfaceTypeList[4]': 'false',
-    'TournamentExtendedFilter.EventGameTypeIDList[0]': 'false',
-    'TournamentExtendedFilter.EventGameTypeIDList[1]': 'false',
-    'TournamentExtendedFilter.EventGameTypeIDList[2]': 'false',
-    'TournamentExtendedFilter.EventGameTypeIDList[3]': 'false',
-    'TournamentExtendedFilter.EventGameTypeIDList[4]': 'false',
     'X-Requested-With': 'XMLHttpRequest',
 }
 
-response = requests.post('https://tournaments.tennis.com.au/find/tournament/DoSearch', cookies=cookies, headers=headers, data=data)
-# print(response.text)
+response = requests.post(
+    'https://tournaments.tennis.com.au/tournament/c0b0b33b-2910-46c0-9503-1c74a6cb761f/Players/GetPlayersContent',
+    cookies=cookies,
+    headers=headers,
+    data=data,
+)
 
-string = "\r\n                    -17\r\n                  "
-print(string.rstrip().strip()+"1")
+print(response.text)
